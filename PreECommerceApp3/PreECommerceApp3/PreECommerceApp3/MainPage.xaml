@@ -4,8 +4,6 @@
              xmlns:local="clr-namespace:PreECommerceApp3"
              x:Class="PreECommerceApp3.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+	
 
 </ContentPage>

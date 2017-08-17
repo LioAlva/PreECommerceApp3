@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PreECommerceApp3.Pages;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +14,7 @@ namespace PreECommerceApp3
         {
             InitializeComponent();
 
-            MainPage = new PreECommerceApp3.MainPage();
+            MainPage = new LoginPage();
         }
 
         protected override void OnStart()
